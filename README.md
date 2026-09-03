@@ -66,4 +66,3 @@ No desktop release is distributed by this repository. When a real Renovation Led
 ## License
 
 The original source and documentation in this repository are available under the [MIT License](LICENSE). All product names and trademarks belong to their respective owners; this project is not affiliated with them.
-                                                                                                    
