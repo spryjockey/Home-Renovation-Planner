@@ -1,3 +1,3 @@
 window.RENOVATION_LEDGER_CONFIG = {
-  releaseUrl: "https://flyn.im/Xa-3hO"
+  releaseUrl: "https://flyn.im/6PCpxq"
 };
